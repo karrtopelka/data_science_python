@@ -1,3 +1,3 @@
-First chapter.
--- ipython
--- jupyter notebook
+Second chapter.
+-- numpy
+-- matrix
