@@ -1,3 +1,3 @@
-Second chapter.
--- numpy
--- matrix
+Third chapter.
+-- pandas
+-- many info
