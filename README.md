@@ -1,1 +1,3 @@
-This is my learning process with data science book.
+First chapter.
+-- ipython
+-- jupyter notebook
